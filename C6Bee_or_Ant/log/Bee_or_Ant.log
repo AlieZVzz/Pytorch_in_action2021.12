@@ -1,0 +1,12 @@
+[2021-12-03 22:45:03,734][model.py][line:27][INFO] start training!
+[2021-12-03 22:45:14,604][model.py][line:69][INFO] Training epoch£º0 [240/61 (98%)]	, Loss: 0.246663	, Train Accuracy£º80.74%	, Validation Accuracy: 62.09%
+[2021-12-03 22:45:14,607][model.py][line:70][INFO] 
+              precision    recall  f1-score   support
+
+           0       0.83      0.79      0.81       121
+           1       0.80      0.84      0.82       120
+
+    accuracy                           0.81       241
+   macro avg       0.81      0.81      0.81       241
+weighted avg       0.81      0.81      0.81       241
+
